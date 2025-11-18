@@ -1,0 +1,14 @@
+{
+  "Environment": {
+    "Development": {
+      "default": {
+        "baseURI": ""
+      }
+    },
+    "Production": {
+      "default": {
+        "baseURI": ""
+      }
+    }
+  }
+}

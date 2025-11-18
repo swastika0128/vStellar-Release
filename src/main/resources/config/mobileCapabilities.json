@@ -1,0 +1,29 @@
+{
+  "MOBILE_PLATFORM_KEY": {
+    "platformName": "Android",
+    "platformVersion": "11.0",
+    "deviceName": "",
+    "pathOfApkIpaApp": "",
+    "appiumServerUrl": "",
+    "driverName": "",
+    "driverUrl": "",
+    "nameForSauceLabs": "",
+    "uiAutomator2XcuiTest": "",
+    "newCommandTimeout": "50",
+    "buildForSauceLabs": "FALSE",
+    "appPackageBundleId": "com.example",
+    "appActivity": "com.example.activity",
+    "noReset": "FALSE",
+    "udid": "",
+    "fullReset": "FALSE",
+    "eventTimings": "FALSE",
+    "autoWebview": "FALSE",
+    "orientation": "PORTRAIT",
+    "installOtherApps": "",
+    "avdLaunchTimeout": "100000",
+    "otherTimeouts": "100000",
+    "locale": "US",
+    "language": "en",
+    "setAvd": ""
+  }
+}

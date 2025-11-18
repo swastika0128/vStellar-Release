@@ -1,0 +1,30 @@
+{
+  "web":{
+    "Browser": "chrome",
+    "headless": "false",
+    "incognito": "false",
+    "browserPath": "",
+    "waitTimeOut": "30",
+    "selfHeal": "false"
+  },
+  "mobile":{
+    "mobileDevice": "android",
+    "mobileActivePlatform": "native"
+  },
+  "logs":{
+    "logLocation": "both",
+    "logLevel": "high"
+  },
+  "activeEnv": "Development",
+  "ActivePlatform": "",
+  "ParallelFeatures": "false",
+  "ParallelScenarios": "false",
+  "EnableRetryOnFailure": "false",
+  "ThreadCount": "3",
+  "AssertionType": "Hard",
+  "RetryCount": "2",
+  "RetryTime": "15000",
+  "connectTimeout": "20000",
+  "readTimeout": "20000",
+  "localServerPort":"8080"
+}

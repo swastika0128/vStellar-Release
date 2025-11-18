@@ -1,0 +1,41 @@
+{
+  "integrations" : {
+    "browserStack": {
+      "username": "",
+      "password": "",
+      "activeKey": "",
+      "defaultName": {
+        "platformName": "",
+        "browserVersion": "",
+        "url": "",
+        "testName": "",
+        "buildName": ""
+      }
+    },
+    "aws": {
+      "username": "",
+      "password": "",
+      "arn": "",
+      "activeKey": "",
+      "defaultName": {
+        "platformName": "",
+        "browserVersion": "",
+        "url": "",
+        "testName": "",
+        "buildName": ""
+      }
+    },
+    "sauceLabs": {
+      "username": "",
+      "password": "",
+      "activeKey": "",
+      "defaultName": {
+        "platformName": "",
+        "browserVersion": "",
+        "url": "",
+        "testName": "",
+        "buildName": ""
+      }
+    }
+  }
+}
